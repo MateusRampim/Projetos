@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Deposito
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Deposito\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Deposito()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Deposito\r\n
+comment2.params=y
+comment2.target=void\ Colocar(int)
+comment2.text=\r\n\ Um\ exemplo\ de\ um\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\ \r\n\ @param\ \ y\ \ \ um\ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ e\ y\ \r\n
+comment3.params=
+comment3.target=void\ Colocar()
+comment4.params=
+comment4.target=void\ Retirar()
+comment5.params=y
+comment5.target=void\ Retirar(int)
+comment6.params=
+comment6.target=int\ get()
+comment7.params=
+comment7.target=void\ main()
+numComments=8
